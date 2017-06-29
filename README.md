@@ -11,5 +11,5 @@ Movie Scout is a Java GUI application that allows the user to _scout_ for movies
 
 * RESTful API - Leverages the [movie database API](https://www.themoviedb.org/documentation/api?language=en)
 * OOP - Object oriented design for easy development and readability
-* MVC - Use of the MVC pattern in the new JavaFX8 framework to split login and UI
+* MVC - Use of the MVC pattern in the new JavaFX8 framework to split logic and UI
 * Networking - Utilises Java networking to make API calls
